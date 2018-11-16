@@ -1,0 +1,15 @@
+Positive tweets: 36.666666666666664   Negative Tweets: 12.222222222222221   Neutral tweets: 0.5111111111111111
+Positive tweets: 28.88888888888889   Negative Tweets: 13.333333333333334   Neutral tweets: 0.5777777777777777
+Positive tweets: 28.26086956521739   Negative Tweets: 14.130434782608695   Neutral tweets: 0.5760869565217391
+Positive tweets: 28.8659793814433   Negative Tweets: 14.43298969072165   Neutral tweets: 0.5670103092783505
+Positive tweets: 26.595744680851062   Negative Tweets: 13.829787234042554   Neutral tweets: 0.5957446808510638
+Positive tweets: 27.17391304347826   Negative Tweets: 17.391304347826086   Neutral tweets: 0.5543478260869565
+Positive tweets: 33.333333333333336   Negative Tweets: 16.666666666666668   Neutral tweets: 0.5
+Positive tweets: 33.70786516853933   Negative Tweets: 17.97752808988764   Neutral tweets: 0.48314606741573035
+Positive tweets: 31.818181818181817   Negative Tweets: 19.318181818181817   Neutral tweets: 0.48863636363636365
+Positive tweets: 32.18390804597701   Negative Tweets: 20.689655172413794   Neutral tweets: 0.47126436781609193
+Positive tweets: 30.232558139534884   Negative Tweets: 18.6046511627907   Neutral tweets: 0.5116279069767442
+Positive tweets: 26.436781609195403   Negative Tweets: 14.942528735632184   Neutral tweets: 0.5862068965517241
+Positive tweets: 32.55813953488372   Negative Tweets: 13.953488372093023   Neutral tweets: 0.5348837209302325
+Positive tweets: 33.72093023255814   Negative Tweets: 12.790697674418604   Neutral tweets: 0.5348837209302325
+Positive tweets: 26.19047619047619   Negative Tweets: 14.285714285714286   Neutral tweets: 0.5952380952380952
